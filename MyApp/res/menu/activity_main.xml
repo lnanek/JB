@@ -1,0 +1,6 @@
+<menu xmlns:a="http://schemas.android.com/apk/res/android">
+    <item a:id="@+id/menu_settings"
+        a:title="@string/menu_settings"
+        a:orderInCategory="100"
+        a:showAsAction="never" />
+</menu>
